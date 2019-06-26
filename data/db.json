@@ -1,0 +1,89 @@
+{
+    "projects": [
+        {
+            "id": "PJK-05067891",
+            "name": "Project Opentech",
+            "description": "SAP Hosting Transition",
+            "start_at": "2017-11-05T02:00:00.000Z",
+            "started_at": "2017-11-17T02:00:00.000Z",
+            "finish_at": "2018-05-30T03:00:00.000Z",
+            "finished_at": "2018-06-29T19:31:38.766Z",
+            "owner": "Leanne Graham",
+            "company": "Opentech",
+            "kpi": {
+                "time": 44,
+                "quality": 63,
+                "budget": 47,
+                "custmr": 81
+            }
+        },
+        {
+            "id": "PRJ-02347561",
+            "name": "Project Codehow",
+            "description": "DataCenter Hosting Transition",
+            "start_at": "2018-03-25T03:00:00.000Z",
+            "started_at": "2018-04-07T03:00:00.000Z",
+            "finish_at": "2018-06-25T03:00:00.000Z",
+            "finished_at": "2018-06-29T19:31:38.766Z",
+            "owner": "Clementine Bauch",
+            "company": "Codehow",
+            "kpi": {
+                "time": 26,
+                "quality": 85,
+                "budget": 33,
+                "custmr": 78
+            }
+        },
+        {
+            "id": "PYV-75648321",
+            "name": "Project Bioplex",
+            "description": "Upgrade Infra",
+            "start_at": "2018-03-25T03:00:00.000Z",
+            "started_at": "2018-04-07T03:00:00.000Z",
+            "finish_at": "2018-06-25T03:00:00.000Z",
+            "finished_at": "2018-06-29T19:31:38.767Z",
+            "owner": "Kurtis Weissnat",
+            "company": "Bioplex",
+            "kpi": {
+                "time": 78,
+                "quality": 86,
+                "budget": 93,
+                "custmr": 61
+            }
+        },
+        {
+            "id": "FRK-374859765",
+            "name": "Project Ontomedia",
+            "description": "Request Management System",
+            "start_at": "2018-01-15T02:00:00.000Z",
+            "started_at": "2018-02-01T02:00:00.000Z",
+            "finish_at": "2018-06-25T03:00:00.000Z",
+            "finished_at": "2018-07-02T03:00:00.000Z",
+            "owner": "Glenna Reichert",
+            "company": "Ontomedia",
+            "kpi": {
+                "time": 74,
+                "quality": 81,
+                "budget": 65,
+                "custmr": 56
+            }
+        },
+        {
+            "id": "ASF-162738453",
+            "name": "Project Newex",
+            "description": "Augmented Reality App for Industry",
+            "start_at": "2017-03-25T03:00:00.000Z",
+            "started_at": "2017-04-07T03:00:00.000Z",
+            "finish_at": "2017-06-25T03:00:00.000Z",
+            "finished_at": "2017-07-15T03:00:00.000Z",
+            "owner": "Taylor Howell",
+            "company": "Newex",
+            "kpi": {
+                "time": 109,
+                "quality": 93,
+                "budget": 121,
+                "custmr": 89
+            }
+        }
+    ]
+}

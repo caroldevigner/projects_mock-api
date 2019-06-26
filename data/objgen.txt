@@ -1,0 +1,76 @@
+projects[0]
+  id s = PJK-05067891
+  name s = Project Opentech
+  description s = SAP Hosting Transition
+  start_at d = 2017/11/05
+  started_at d = 2017/11/17
+  finish_at d = 2018/05/30
+  finished_at d
+  owner s = Leanne Graham
+  company s = Opentech
+  kpi
+    time n = 44
+    quality n = 63
+    budget n = 47
+    custmr n = 81
+ projects[1]
+  id s = PRJ-02347561
+  name s = Project Codehow
+  description s = DataCenter Hosting Transition
+  start_at d = 2018/03/25
+  started_at d = 2018/04/07
+  finish_at d = 2018/06/25
+  finished_at d
+  owner s = Clementine Bauch
+  company s = Codehow
+  kpi
+    time n = 26
+    quality n = 85
+    budget n = 33
+    custmr n = 78
+ projects[2]
+  id s = PYV-75648321
+  name s = Project Bioplex
+  description s = Upgrade Infra
+  start_at d = 2018/03/25
+  started_at d = 2018/04/07
+  finish_at d = 2018/06/25
+  finished_at d
+  owner s = Kurtis Weissnat
+  company s = Bioplex
+  kpi
+    time n = 78
+    quality n = 86
+    budget n = 93
+    custmr n = 61
+ projects[3]
+  id s = FRK-374859765
+  name s = Project Ontomedia
+  description s = Request Management System
+  start_at d = 2018/01/15
+  started_at d = 2018/02/01
+  finish_at d = 2018/06/25
+  finished_at d = 2018/07/02
+  owner s = Glenna Reichert
+  company s = Ontomedia
+  kpi
+    time n = 74
+    quality n = 81
+    budget n = 65
+    custmr n = 56
+ projects[4]
+  id s = ASF-162738453
+  name s = Project Newex
+  description s = Augmented Reality App for Industry
+  start_at d = 2017/03/25
+  started_at d = 2017/04/07
+  finish_at d = 2017/06/25
+  finished_at d = 2017/07/15
+  owner s = Taylor Howell
+  company s = Newex
+  kpi
+    time n = 109
+    quality n = 93
+    budget n = 121
+    custmr n = 89
+    
