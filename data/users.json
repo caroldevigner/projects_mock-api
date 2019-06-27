@@ -1,0 +1,4 @@
+[
+    { "id": 1, "name": "John", "email": "john@mail.com", "password": "$2b$10$MjnHJnAEcR7Z4FCtBl0P4ukjf6NuHuRJb3DKjWfesW6JmoCbUpEmO" },
+    { "id": 2, "name": "Sarah", "email": "sarah@mail.com", "password": "$2b$10$MjnHJnAEcR7Z4FCtBl0P4unqQofe2eWYcL1Ltin2qv0vNDJ2ve0iK" }
+]

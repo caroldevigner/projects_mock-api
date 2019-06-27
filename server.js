@@ -23,5 +23,5 @@ server.post('/token', (req, res) => {
 server.use('/api', auth.authenticate(), router)
 
 server.listen(port, () => {
-  console.log(`Projects-API Server is running on https://localhost:${port}/`)
+  console.log(`Projects-API Server is running on http://localhost:${port}/`)
 })
